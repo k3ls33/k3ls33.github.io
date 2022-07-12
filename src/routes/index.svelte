@@ -7,11 +7,8 @@
 	<a href="/projects">My Projects</a>
 </div>
 
-<style lang="scss">
-	$body-text: #1e1e1e;
-
-	:root {
-		color: $body-text;
-		background-color:cyan;
+<style>
+	:global {
+		color: #1e1e1e;
 	}
 </style>
